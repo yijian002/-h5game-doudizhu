@@ -1,0 +1,17 @@
+{
+  "name": "snatch-wx",
+  "version": "1.0.0",
+  "author": "Vic Yang",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.6.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-replace": "^0.5.4",
+    "gulp-requirejs-optimize": "^0.3.2",
+    "gulp-sequence": "^0.4.5",
+    "gulp-uglify": "^1.5.4",
+    "jshint": "^2.9.2",
+    "yargs": "^4.8.0"
+  }
+}
