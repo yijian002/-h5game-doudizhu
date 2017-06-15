@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title> 排行榜 - 抢地主 </title>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="target-densitydpi=device-dpi,width=480,user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="stylesheet" type="text/css" href="../../css/base.css" />
+    <link rel="stylesheet" type="text/css" href="css/animated.css" />
+    <link rel="stylesheet" type="text/css" href="../css/game.css" />
+    <link rel="stylesheet" type="text/css" href="css/list.css" />
+</head>
+<body>
+	<div class="top-tip">
+		<marquee behavior="scroll" direction="left" scrollamount="6">活动期间，前3名额外多分100币奖励！</marquee>
+	</div>
+	<div class="top">
+		<img src="images/bg-top.jpg" class="bg" />
+		<a href="index.html"><img src="images/btn-gogame.png" class="btn-gogame animated bounceIn" alt="立即游戏" /></a>
+		<a href="rule.html"><img src="images/btn-rule.png" class="btn-rule" alt="规则说明" /></a>
+		<div class="info" id="js-personal">
+			<div class="mine"><div class="m-head"><img /></div><span>-</span></div>
+			<div class="ticket"><div class="img icon-info">-</div></div>
+			<div class="best"><div class="img icon-info">-</div></div>
+			<div class="records" id="js-btn-myrecords"><div class="img icon-info"></div></div>
+		</div>
+	</div>
+
+	<div class="tabs" id="js-tabs">
+		<div class="cont">
+			<ul>
+				<li class="selected"><span class="icon-tabs icon-rank"></span><span>本轮排行榜</span></li>
+				<li><span class="icon-tabs icon-prev-round"></span><span>上轮</span></li>
+				<li><span class="icon-tabs icon-rank-his"></span><span>历史</span></li>
+			</ul>
+		</div>
+		<a href="javascript:void(0);" class="icon-tabs icon-refresh"></a>
+	</div>
+
+	<div class="main">
+		<!-- 本轮信息 S -->
+		<div id="js-round">
+			<div class="round-info">
+				第<span class="num">-</span>轮&nbsp;&nbsp;总奖池：<span class="yellow total">-币</span>
+				<div class="rtime hide"><span>-</span>:<span>-</span>:<span>-</span></div>
+				<div class="end hide"></div>
+				<div class="back hide"></div>
+			</div>
+
+			<div class="list-top list-rank-top">
+				<ul><li><div>&nbsp;</div><div>玩家</div><div>成绩</div><div>奖励币</div></li></ul>
+			</div>
+
+			<div class="list-cont list-rank-cont">
+				<ul></ul>
+				<div class="more">正在努力加载数据...</div>
+			</div>
+
+			<div class="rank-rtime hide"></div>
+		</div>
+		<!-- 本轮信息 E -->
+
+		<!-- 历史信息 S -->
+		<div id="js-history" class="hide">
+			<div class="history-info">历史总奖池：<span class="yellow total">-币</span></div>
+			<div class="list-top list-history-top">
+				<ul><li><div>轮次</div><div>冠军</div><div>当轮总奖励</div><div>&nbsp;</div></li></ul>
+			</div>
+
+			<div class="list-cont list-history-cont">
+				<ul></ul>
+				<div class="more">正在努力加载数据...</div>
+			</div>
+		</div>
+		<!-- 历史信息 E -->
+
+		<!-- 我的记录 S -->
+		<div id="js-my-records" class="hide">
+			<div class="mine-info"><div class="back"></div></div>
+			<div class="list-top list-mine-top">
+				<ul><li><div>轮次</div><div>参与次数</div><div>最好成绩</div><div>名次</div><div>奖励币</div></li></ul>
+			</div>
+
+			<div class="list-cont list-mine-cont">
+				<ul></ul>
+				<div class="more">正在努力加载数据...</div>
+			</div>
+		</div>
+		<!-- 我的记录 E -->
+
+		<div class="bottom-mine-i js-myself hide"></div>
+	</div>
+
+<div id="btn-back-top"></div>
+<div class="boxlayer" id="js-box-layer"></div>
+
+<div class="w-msgbox hide" id="box_luck_tip">
+	<div class="w-msgbox-close close">×</div>
+	<div class="w-msgbox-bd"><h3 class="w-msgbox-title">幸运奖10币</h3></div>
+	<div class="w-msgbox-ft w-msgbox-ft-2">
+		<button class="pro-btn pro-btn-close close" type="button"><span>确定</span></button>
+	</div>
+</div>
+
+<script type="text/template" id="tpl-myself">
+<div class="bottom-mine js-myself">
+	<div class="cont">
+		<div class="num">__RANK__</div>
+		<div>
+			<div class="m-head"><img src="__HEAD__" /></div>
+			<span class="name">__NAME__</span>
+		</div>
+		<div>__GRADE__</div>
+		<div>__POINT__<img src="images/icon-b.png" class="icon-b" /></div>
+	</div>
+</div>
+</script>
+
+<script type="text/template" id="tpl-box-trygame">
+<div class="box box-trygame">
+	<div class="cont">
+		<img src="images/dialog-trygame.png" class="bg" />
+		<i class="close"></i>
+		<div class="tips">Tips：<br />试玩成绩不计入排行榜，<br />10元即可获得游戏券一张</div>
+		<a href="index.html" title="立即试玩" class="btn-game"></a>
+	</div>
+</div>
+</script>
+
+<script type="text/template" id="tpl-box-ticket">
+<div class="box box-ticket">
+	<div class="cont">
+		<img src="images/dialog-ticket.png" class="bg" />
+		<i class="close"></i>
+		<div class="tips">Tips：<br />每券3次机会，多买多得，<br />还有幸运奖送哦~</div>
+		<a href="../../index.html" title="立即" class="btn-game"></a>
+	</div>
+</div>
+</script>
+
+<script type="text/template" id="tpl-box-results">
+<div class="box box-results">
+	<div class="cont">
+		<img src="images/dialog-results.png" class="bg" />
+		<i class="close"></i>
+		<div class="best"></div>
+		<div class="rank"></div>
+		<div class="reward"></div>
+		<div class="detail close" title="查看当轮详情"></div>
+		<a href="index.html" title="立即游戏" class="btn-game"></a>
+	</div>
+</div>
+</script>
+
+</body>
+</html>
+<script type="text/javascript">window.gameId = 2;</script>
+<script data-main="../js/app/list-qdz.js" src="../../lib/require.js"></script>

@@ -1,0 +1,3160 @@
+{
+  "ID": "af721b18-4b1b-4f40-8409-f940e703f676",
+  "Version": "2.3.1.2",
+  "Name": "GameLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 74,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "duiju/bg2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 538.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5343
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": -81.0,
+            "BottomMargin": -12.0,
+            "Tag": 75,
+            "ActionTag": 1007446690,
+            "Size": {
+              "X": 640.0,
+              "Y": 1100.0
+            },
+            "Name": "Default",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 179.3478,
+              "Y": 800.3355
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2802,
+              "Y": 0.7948
+            },
+            "PreSize": {
+              "X": 0.3953,
+              "Y": 0.2083
+            },
+            "LeftMargin": 179.3478,
+            "RightMargin": 207.6522,
+            "TopMargin": 6.6645,
+            "BottomMargin": 800.3355,
+            "Tag": 76,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 42,
+                "Scale9Height": 55,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 91.5107,
+                  "Y": 168.0519
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3617,
+                  "Y": 0.8403
+                },
+                "PreSize": {
+                  "X": 0.166,
+                  "Y": 0.275
+                },
+                "LeftMargin": 70.5107,
+                "RightMargin": 140.4893,
+                "TopMargin": 4.4481,
+                "BottomMargin": 140.5519,
+                "Tag": 77,
+                "ActionTag": -1529377296,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 55.0
+                },
+                "Name": "Imagedipai0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 42,
+                "Scale9Height": 55,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.8638,
+                  "Y": 168.0461
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5607,
+                  "Y": 0.8402
+                },
+                "PreSize": {
+                  "X": 0.166,
+                  "Y": 0.275
+                },
+                "LeftMargin": 120.8638,
+                "RightMargin": 90.1362,
+                "TopMargin": 4.4539,
+                "BottomMargin": 140.5461,
+                "Tag": 78,
+                "ActionTag": -13222612,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 55.0
+                },
+                "Name": "Imagedipai1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 42,
+                "Scale9Height": 55,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 191.7222,
+                  "Y": 168.052
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7578,
+                  "Y": 0.8403
+                },
+                "PreSize": {
+                  "X": 0.166,
+                  "Y": 0.275
+                },
+                "LeftMargin": 170.7222,
+                "RightMargin": 40.2778,
+                "TopMargin": 4.448,
+                "BottomMargin": 140.552,
+                "Tag": 79,
+                "ActionTag": 2122751731,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 55.0
+                },
+                "Name": "Imagedipai2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bei.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 150,
+                "Scale9OriginY": 37,
+                "Scale9Width": 30,
+                "Scale9Height": 40,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 450.0,
+                  "Y": 161.2812
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.7787,
+                  "Y": 0.8064
+                },
+                "PreSize": {
+                  "X": 1.581,
+                  "Y": 0.57
+                },
+                "LeftMargin": 250.0,
+                "RightMargin": -397.0,
+                "TopMargin": -18.2812,
+                "BottomMargin": 104.2812,
+                "Tag": 68,
+                "ActionTag": 1977399608,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 114.0
+                },
+                "Name": "Image_beishuback",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1097071693,
+            "Size": {
+              "X": 253.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -16.0,
+              "Y": 648.6191
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.025,
+              "Y": 0.6441
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -16.0,
+            "RightMargin": 456.0,
+            "TopMargin": 158.3809,
+            "BottomMargin": 648.6191,
+            "Tag": 81,
+            "Children": [
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/nv.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 160,
+                "Scale9Height": 170,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.3314,
+                  "Y": 135.9432
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4117,
+                  "Y": 0.6797
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.85
+                },
+                "LeftMargin": 2.3314,
+                "RightMargin": 37.6686,
+                "TopMargin": -20.9432,
+                "BottomMargin": 50.9432,
+                "Tag": 82,
+                "ActionTag": -743164833,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 170.0
+                },
+                "Name": "Imagediannao2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/wj.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 125,
+                "Scale9Height": 54,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.2001
+                },
+                "Position": {
+                  "X": 86.8264,
+                  "Y": 15.364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4341,
+                  "Y": 0.0768
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.27
+                },
+                "LeftMargin": 24.3264,
+                "RightMargin": 50.6736,
+                "TopMargin": 141.4414,
+                "BottomMargin": 4.5586,
+                "Tag": 84,
+                "ActionTag": -2007574996,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 54.0
+                },
+                "Name": "Image_diannaodipai2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "小燕",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {},
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": 1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.5551,
+                  "Y": 30.7698
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 237,
+                  "B": 139
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5178,
+                  "Y": 0.1538
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 51.5551,
+                "RightMargin": 96.4449,
+                "TopMargin": 156.2302,
+                "BottomMargin": 17.7698,
+                "Tag": 110,
+                "ActionTag": 1828623904,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 26.0
+                },
+                "Name": "Textdiannaoname2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1954043386,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 515.9841,
+              "Y": 648.6207
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8062,
+              "Y": 0.6441
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 515.9841,
+            "RightMargin": -75.9841,
+            "TopMargin": 158.3793,
+            "BottomMargin": 648.6207,
+            "Tag": 86,
+            "Children": [
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/xz.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 160,
+                "Scale9Height": 170,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.299,
+                  "Y": 135.9415
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2465,
+                  "Y": 0.6797
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.85
+                },
+                "LeftMargin": -30.701,
+                "RightMargin": 70.701,
+                "TopMargin": -20.9415,
+                "BottomMargin": 50.9415,
+                "Tag": 87,
+                "ActionTag": 66631115,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 170.0
+                },
+                "Name": "Imagediannao1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/wj.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 125,
+                "Scale9Height": 54,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.2001
+                },
+                "Position": {
+                  "X": 54.4561,
+                  "Y": 15.36
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2723,
+                  "Y": 0.0768
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.27
+                },
+                "LeftMargin": -8.0439,
+                "RightMargin": 83.0439,
+                "TopMargin": 141.4454,
+                "BottomMargin": 4.5546,
+                "Tag": 89,
+                "ActionTag": -126709072,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 54.0
+                },
+                "Name": "Image_diannaodipai1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "小志",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {},
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": 1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 33.275,
+                  "Y": 30.77
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 237,
+                  "B": 139
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1664,
+                  "Y": 0.1539
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 33.275,
+                "RightMargin": 114.725,
+                "TopMargin": 156.23,
+                "BottomMargin": 17.77,
+                "Tag": 111,
+                "ActionTag": 1081225953,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 26.0
+                },
+                "Name": "Textdiannaoname1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1842938290,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_2_0",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 74.2101,
+              "Y": 400.69
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.116,
+              "Y": 0.3979
+            },
+            "PreSize": {
+              "X": 0.7813,
+              "Y": 0.0906
+            },
+            "LeftMargin": 74.2101,
+            "RightMargin": 65.7899,
+            "TopMargin": 519.31,
+            "BottomMargin": 400.69,
+            "Tag": 140,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt12.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt7.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt7.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.8912,
+                  "Y": 47.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1578,
+                  "Y": 0.5457
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 2.8912,
+                "RightMargin": 345.1088,
+                "TopMargin": -1.98,
+                "BottomMargin": 5.98,
+                "Tag": 142,
+                "ActionTag": -1942809466,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_buchu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt11.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt8.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt8.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 255.7141,
+                  "Y": 47.4789
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5114,
+                  "Y": 0.5457
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 179.7141,
+                "RightMargin": 168.2859,
+                "TopMargin": -1.9789,
+                "BottomMargin": 5.9789,
+                "Tag": 144,
+                "ActionTag": -1572410683,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_tishi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt10.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt9.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt9.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 434.6208,
+                  "Y": 47.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8692,
+                  "Y": 0.5457
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 358.6208,
+                "RightMargin": -10.6208,
+                "TopMargin": -1.98,
+                "BottomMargin": 5.98,
+                "Tag": 145,
+                "ActionTag": -444728656,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_chupai",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -2023004919,
+            "Size": {
+              "X": 500.0,
+              "Y": 87.0
+            },
+            "Name": "Panelchupai",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ItemMargin": -35,
+            "ScrollDirectionType": 0,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 300.0,
+              "Y": 513.7513
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4688,
+              "Y": 0.5102
+            },
+            "PreSize": {
+              "X": 0.5469,
+              "Y": 0.0824
+            },
+            "LeftMargin": 300.0,
+            "RightMargin": -10.0,
+            "TopMargin": 410.2487,
+            "BottomMargin": 513.7513,
+            "Tag": 137,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0987,
+                  "Y": 0.415
+                },
+                "RightMargin": 287.0,
+                "Tag": 138,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "pai/zhong/53.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 63,
+                    "Scale9Height": 83,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 31.5,
+                      "Y": 41.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.45,
+                      "Y": 0.415
+                    },
+                    "Tag": 139,
+                    "ActionTag": -1003198441,
+                    "Size": {
+                      "X": 63.0,
+                      "Y": 83.0
+                    },
+                    "Name": "Image_10",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "duiju/bq.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 107,
+                    "Scale9Height": 107,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 38.3309,
+                      "Y": 58.2896
+                    },
+                    "Scale": {
+                      "ScaleX": 0.4,
+                      "ScaleY": 0.4
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6084,
+                      "Y": 0.7023
+                    },
+                    "PreSize": {
+                      "X": 1.6984,
+                      "Y": 1.2892
+                    },
+                    "LeftMargin": -15.1691,
+                    "RightMargin": -28.8309,
+                    "TopMargin": -28.7896,
+                    "BottomMargin": 4.7896,
+                    "Tag": 69,
+                    "ActionTag": -1890007740,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 107.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -404139370,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 83.0
+                },
+                "Name": "Panel_4",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -271120573,
+            "Size": {
+              "X": 350.0,
+              "Y": 83.0
+            },
+            "Name": "ListViewchupai0",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ItemMargin": -25,
+            "ScrollDirectionType": 0,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 452.0,
+              "Y": 734.5166
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7063,
+              "Y": 0.7294
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0604
+            },
+            "LeftMargin": 452.0,
+            "RightMargin": -112.0,
+            "TopMargin": 214.4834,
+            "BottomMargin": 734.5166,
+            "Tag": 149,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.069,
+                  "Y": 0.29
+                },
+                "RightMargin": 256.0,
+                "Tag": 150,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "pai/xiao/53.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 44,
+                    "Scale9Height": 58,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 22.0,
+                      "Y": 29.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3143,
+                      "Y": 0.29
+                    },
+                    "Tag": 151,
+                    "ActionTag": 1051426435,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 58.0
+                    },
+                    "Name": "Image_10",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "duiju/bq.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 107,
+                    "Scale9Height": 107,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.12,
+                      "Y": 38.2001
+                    },
+                    "Scale": {
+                      "ScaleX": 0.3,
+                      "ScaleY": 0.3
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6164,
+                      "Y": 0.6586
+                    },
+                    "PreSize": {
+                      "X": 0.7535,
+                      "Y": 0.5784
+                    },
+                    "LeftMargin": -26.38,
+                    "RightMargin": -36.62,
+                    "TopMargin": -33.7001,
+                    "BottomMargin": -15.2999,
+                    "Tag": 71,
+                    "ActionTag": 1552032786,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 107.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 788592836,
+                "Size": {
+                  "X": 44.0,
+                  "Y": 58.0
+                },
+                "Name": "Panel_4",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 496763883,
+            "Size": {
+              "X": 300.0,
+              "Y": 58.0
+            },
+            "Name": "ListViewchupai1",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ItemMargin": -25,
+            "ScrollDirectionType": 0,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 140.694,
+              "Y": 734.6477
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2198,
+              "Y": 0.7295
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.0604
+            },
+            "LeftMargin": 140.694,
+            "RightMargin": 199.306,
+            "TopMargin": 214.3523,
+            "BottomMargin": 734.6477,
+            "Tag": 146,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.069,
+                  "Y": 0.29
+                },
+                "RightMargin": 256.0,
+                "Tag": 147,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "pai/xiao/53.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 44,
+                    "Scale9Height": 58,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 22.0,
+                      "Y": 29.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3143,
+                      "Y": 0.29
+                    },
+                    "Tag": 148,
+                    "ActionTag": 149298940,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 58.0
+                    },
+                    "Name": "Image_10",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "duiju/bq.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 107,
+                    "Scale9Height": 107,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.12,
+                      "Y": 38.2
+                    },
+                    "Scale": {
+                      "ScaleX": 0.3,
+                      "ScaleY": 0.3
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6164,
+                      "Y": 0.6586
+                    },
+                    "PreSize": {
+                      "X": 2.4318,
+                      "Y": 1.8448
+                    },
+                    "LeftMargin": -26.38,
+                    "RightMargin": -36.62,
+                    "TopMargin": -33.7,
+                    "BottomMargin": -15.3,
+                    "Tag": 70,
+                    "ActionTag": -1029808590,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 107.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -633394702,
+                "Size": {
+                  "X": 44.0,
+                  "Y": 58.0
+                },
+                "Name": "Panel_4",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1253360814,
+            "Size": {
+              "X": 300.0,
+              "Y": 58.0
+            },
+            "Name": "ListViewchupai2",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "duiju/bc.png",
+              "Plist": ""
+            },
+            "Scale9Width": 144,
+            "Scale9Height": 54,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 310.4299,
+              "Y": 548.8539
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.485,
+              "Y": 0.545
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0536
+            },
+            "LeftMargin": 238.4299,
+            "RightMargin": 257.5701,
+            "TopMargin": 431.1461,
+            "BottomMargin": 521.8539,
+            "Tag": 182,
+            "ActionTag": 483688557,
+            "Size": {
+              "X": 144.0,
+              "Y": 54.0
+            },
+            "Name": "Image_player0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "duiju/bc.png",
+              "Plist": ""
+            },
+            "Scale9Width": 144,
+            "Scale9Height": 54,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 419.25,
+              "Y": 756.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6551,
+              "Y": 0.7507
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0536
+            },
+            "LeftMargin": 347.25,
+            "RightMargin": 148.75,
+            "TopMargin": 224.0,
+            "BottomMargin": 729.0,
+            "Tag": 185,
+            "ActionTag": -825845384,
+            "Size": {
+              "X": 144.0,
+              "Y": 54.0
+            },
+            "Name": "Image_player1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "duiju/bc.png",
+              "Plist": ""
+            },
+            "Scale9Width": 144,
+            "Scale9Height": 54,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 216.0004,
+              "Y": 756.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3375,
+              "Y": 0.7507
+            },
+            "PreSize": {
+              "X": 0.225,
+              "Y": 0.0536
+            },
+            "LeftMargin": 144.0004,
+            "RightMargin": 351.9996,
+            "TopMargin": 223.9997,
+            "BottomMargin": 729.0003,
+            "Tag": 184,
+            "ActionTag": -1551267063,
+            "Size": {
+              "X": 144.0,
+              "Y": 54.0
+            },
+            "Name": "Image_player2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 87.5707,
+              "Y": 404.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1368,
+              "Y": 0.4017
+            },
+            "PreSize": {
+              "X": 0.7813,
+              "Y": 0.0906
+            },
+            "LeftMargin": 87.5707,
+            "RightMargin": 52.4293,
+            "TopMargin": 515.5,
+            "BottomMargin": 404.5,
+            "Tag": 47,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt4.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 332.91,
+                  "Y": 41.86
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6658,
+                  "Y": 0.4811
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 256.91,
+                "RightMargin": 91.09,
+                "TopMargin": 3.64,
+                "BottomMargin": 0.36,
+                "Tag": 48,
+                "ActionTag": 1791334674,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_jiaodizhu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt3.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.67,
+                  "Y": 41.86
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2933,
+                  "Y": 0.4811
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 70.67,
+                "RightMargin": 277.33,
+                "TopMargin": 3.64,
+                "BottomMargin": 0.36,
+                "Tag": 49,
+                "ActionTag": -1182629199,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_bujiao",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 332.91,
+                  "Y": 41.86
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6658,
+                  "Y": 0.4811
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 256.91,
+                "RightMargin": 91.09,
+                "TopMargin": 3.64,
+                "BottomMargin": 0.36,
+                "Tag": 50,
+                "ActionTag": -1864881364,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_qiangdizhu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.67,
+                  "Y": 41.86
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2933,
+                  "Y": 0.4811
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 70.67,
+                "RightMargin": 277.33,
+                "TopMargin": 3.64,
+                "BottomMargin": 0.36,
+                "Tag": 51,
+                "ActionTag": 1650845972,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_buqiang",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt6.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt6.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 332.9133,
+                  "Y": 41.86
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6658,
+                  "Y": 0.4811
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 256.9133,
+                "RightMargin": 91.0867,
+                "TopMargin": 3.64,
+                "BottomMargin": 0.36,
+                "Tag": 52,
+                "ActionTag": -589240893,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_jiabei",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt5.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "duiju/bt5.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 122,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.6731,
+                  "Y": 41.8649
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2933,
+                  "Y": 0.4812
+                },
+                "PreSize": {
+                  "X": 0.304,
+                  "Y": 0.954
+                },
+                "LeftMargin": 70.6731,
+                "RightMargin": 277.3269,
+                "TopMargin": 3.6351,
+                "BottomMargin": 0.3649,
+                "Tag": 53,
+                "ActionTag": 138060459,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 83.0
+                },
+                "Name": "Button_bujiabei",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 925145169,
+            "Size": {
+              "X": 500.0,
+              "Y": 87.0
+            },
+            "Name": "Panelqiangdizhu",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 9.6703,
+              "Y": 9.6001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0151,
+              "Y": 0.0095
+            },
+            "PreSize": {
+              "X": 0.9969,
+              "Y": 0.3873
+            },
+            "LeftMargin": 9.6703,
+            "RightMargin": -7.6703,
+            "TopMargin": 607.3999,
+            "BottomMargin": 9.6001,
+            "Tag": 58,
+            "Children": [
+              {
+                "ItemMargin": -90,
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 205.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.5256
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.4625
+                },
+                "BottomMargin": 205.0,
+                "Tag": 91,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.2226,
+                      "Y": 0.925
+                    },
+                    "RightMargin": 496.0,
+                    "Tag": 92,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pai/da/53.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 142,
+                        "Scale9Height": 185,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 71.0,
+                          "Y": 92.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.0143,
+                          "Y": 0.925
+                        },
+                        "Tag": 93,
+                        "Children": [
+                          {
+                            "BackColorAlpha": 128,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Width": 1,
+                            "Scale9Height": 1,
+                            "VisibleForFrame": false,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 60,
+                            "ActionTag": 1111527933,
+                            "Size": {
+                              "X": 142.0,
+                              "Y": 185.0
+                            },
+                            "Name": "Panel_5",
+                            "ctype": "PanelObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "duiju/bq.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 107,
+                            "Scale9Height": 107,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 86.1229,
+                              "Y": 128.2012
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6065,
+                              "Y": 0.693
+                            },
+                            "PreSize": {
+                              "X": 0.7535,
+                              "Y": 0.5784
+                            },
+                            "LeftMargin": 32.6229,
+                            "RightMargin": 2.3771,
+                            "TopMargin": 3.2988,
+                            "BottomMargin": 74.7012,
+                            "Tag": 66,
+                            "ActionTag": -1610284026,
+                            "Size": {
+                              "X": 107.0,
+                              "Y": 107.0
+                            },
+                            "Name": "Image_1",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -1184688330,
+                        "Size": {
+                          "X": 142.0,
+                          "Y": 185.0
+                        },
+                        "Name": "Image_10",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 2060189845,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 185.0
+                    },
+                    "Name": "Panel_4",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -716578906,
+                "Size": {
+                  "X": 638.0,
+                  "Y": 185.0
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ItemMargin": -90,
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.5
+                },
+                "TopMargin": 205.0,
+                "Tag": 116,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.2226,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 496.0,
+                    "Tag": 117,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pai/da/53.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 142,
+                        "Scale9Height": 185,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 71.0,
+                          "Y": 92.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 1.0071,
+                          "Y": 1.0
+                        },
+                        "Tag": 118,
+                        "Children": [
+                          {
+                            "BackColorAlpha": 128,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "VisibleForFrame": false,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 0,
+                              "G": 0,
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "Tag": 59,
+                            "ActionTag": 1135008454,
+                            "Size": {
+                              "X": 142.0,
+                              "Y": 185.0
+                            },
+                            "Name": "Panel_5",
+                            "ctype": "PanelObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "duiju/bq.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 107,
+                            "Scale9Height": 107,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 86.12,
+                              "Y": 128.2
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6065,
+                              "Y": 0.693
+                            },
+                            "PreSize": {
+                              "X": 0.7535,
+                              "Y": 0.5784
+                            },
+                            "LeftMargin": 32.62,
+                            "RightMargin": 2.38,
+                            "TopMargin": 3.3,
+                            "BottomMargin": 74.7,
+                            "Tag": 67,
+                            "ActionTag": -1598228056,
+                            "Size": {
+                              "X": 107.0,
+                              "Y": 107.0
+                            },
+                            "Name": "Image_1",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 471386778,
+                        "Size": {
+                          "X": 142.0,
+                          "Y": 185.0
+                        },
+                        "Name": "Image_10",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1745250489,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 185.0
+                    },
+                    "Name": "Panel_4",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -691644317,
+                "Size": {
+                  "X": 638.0,
+                  "Y": 185.0
+                },
+                "Name": "ListView_1_0",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 660385096,
+            "Size": {
+              "X": 638.0,
+              "Y": 390.0
+            },
+            "Name": "Panel_3",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.0834,
+              "Y": 804.8887
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0017,
+              "Y": 0.7993
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.0834,
+            "RightMargin": 438.9166,
+            "TopMargin": 2.1113,
+            "BottomMargin": 804.8887,
+            "Tag": 95,
+            "Children": [
+              {
+                "ItemMargin": -25,
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0001,
+                  "Y": 58.6685
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.2933
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.0576
+                },
+                "LeftMargin": 0.0001,
+                "RightMargin": -200.0001,
+                "TopMargin": 83.3315,
+                "BottomMargin": 58.6685,
+                "Tag": 59,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.069,
+                      "Y": 0.29
+                    },
+                    "RightMargin": 356.0,
+                    "Tag": 60,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pai/xiao/53.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 44,
+                        "Scale9Height": 58,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 22.0,
+                          "Y": 29.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.3143,
+                          "Y": 0.29
+                        },
+                        "Tag": 61,
+                        "ActionTag": 104350131,
+                        "Size": {
+                          "X": 44.0,
+                          "Y": 58.0
+                        },
+                        "Name": "Image_10",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -871664840,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 58.0
+                    },
+                    "Name": "Panel_4",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 163647644,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 58.0
+                },
+                "Name": "ListViewshoupai_2",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ItemMargin": -25,
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 590.0,
+                  "Y": -198.5698
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.95,
+                  "Y": -0.9928
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.0576
+                },
+                "LeftMargin": 590.0,
+                "RightMargin": -790.0,
+                "TopMargin": 340.5698,
+                "BottomMargin": -198.5698,
+                "Tag": 62,
+                "Children": [
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.069,
+                      "Y": 0.3135
+                    },
+                    "RightMargin": 356.0,
+                    "Tag": 63,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pai/xiao/53.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 44,
+                        "Scale9Height": 58,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 22.0,
+                          "Y": 29.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.3143,
+                          "Y": 0.29
+                        },
+                        "Tag": 64,
+                        "ActionTag": 757031840,
+                        "Size": {
+                          "X": 44.0,
+                          "Y": 58.0
+                        },
+                        "Name": "Image_10",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1564881776,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 58.0
+                    },
+                    "Name": "Panel_4",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 822650902,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 58.0
+                },
+                "Name": "ListViewshoupai_1",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": -881295579,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_8",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "duiju/zhandan.png",
+              "Plist": ""
+            },
+            "Scale9Width": 119,
+            "Scale9Height": 129,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 665.4681
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6608
+            },
+            "PreSize": {
+              "X": 0.1859,
+              "Y": 0.1281
+            },
+            "LeftMargin": 260.5,
+            "RightMargin": 260.5,
+            "TopMargin": 277.0319,
+            "BottomMargin": 600.9681,
+            "Tag": 96,
+            "ActionTag": -924774123,
+            "Size": {
+              "X": 119.0,
+              "Y": 129.0
+            },
+            "Name": "Image_zhadan",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "duiju/wz2.png",
+              "Plist": ""
+            },
+            "Scale9Width": 262,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0004,
+              "Y": 502.1089
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4986
+            },
+            "PreSize": {
+              "X": 0.4094,
+              "Y": 0.0318
+            },
+            "LeftMargin": 189.0004,
+            "RightMargin": 188.9996,
+            "TopMargin": 488.8911,
+            "BottomMargin": 486.1089,
+            "Tag": 64,
+            "ActionTag": 1819593191,
+            "Size": {
+              "X": 262.0,
+              "Y": 32.0
+            },
+            "Name": "Image_Magess",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 440.0,
+            "TopMargin": 807.0,
+            "Tag": 66,
+            "ActionTag": 323039295,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_bomb",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 26,
+            "LabelText": "当前随机索引:1",
+            "textAlign": "left",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 115.0158,
+              "Y": 975.8837
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1797,
+              "Y": 0.9691
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.0158,
+            "RightMargin": 419.9842,
+            "TopMargin": 16.1163,
+            "BottomMargin": 960.8837,
+            "Tag": 63,
+            "ActionTag": -1462162604,
+            "Size": {
+              "X": 210.0,
+              "Y": 30.0
+            },
+            "Name": "Text_random",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1007.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "duiju/bc.png",
+        "duiju/bei.png",
+        "duiju/bg2.png",
+        "duiju/bm.png",
+        "duiju/bq.png",
+        "duiju/bt1.png",
+        "duiju/bt10.png",
+        "duiju/bt11.png",
+        "duiju/bt12.png",
+        "duiju/bt2.png",
+        "duiju/bt3.png",
+        "duiju/bt4.png",
+        "duiju/bt5.png",
+        "duiju/bt6.png",
+        "duiju/bt7.png",
+        "duiju/bt8.png",
+        "duiju/bt9.png",
+        "duiju/nv.png",
+        "duiju/wj.png",
+        "duiju/wz2.png",
+        "duiju/xz.png",
+        "duiju/zhandan.png",
+        "pai/da/53.png",
+        "pai/xiao/53.png",
+        "pai/zhong/53.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
